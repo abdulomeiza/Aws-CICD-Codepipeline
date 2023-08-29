@@ -88,5 +88,3 @@ Open the CodeCommit console at
 Copy the SSH URL if you are using an SSH public/private key pair with your IAM user.
 run this command in your local repo  git clone ssh://git-codecommit.us-east-2.amazonaws.com/v1/repos/MyDemoRepo my-demo-repo
 
-# STAGE TWO
-
